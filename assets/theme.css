@@ -1,17 +1,11 @@
 /*
-
 # The Mad CSScientist's Basic CSS Stylesheet
 written by Tommy Hodgins: https://gist.github.com/tomhodgins/e330ec1826d1cde2b8b0
-
 ## Usage
 Add this stylesheet to barebones HTML documents to instantly add some sensible defaults for text or documentation
-
     <link href=http://staticresource.com/basic.css rel=stylesheet>
-
 This stylesheet contains multiple themes. To apply a theme add the attribute `data-theme` with the value `book`, `dark`, or `code` to the HTML tag.
-
     <html data-theme=dark>
-
 */
 
 *,
@@ -29,17 +23,17 @@ This stylesheet contains multiple themes. To apply a theme add the attribute `da
 ::-moz-selection {
   color: #fff;
   text-shadow: #007931 1px 1px 1px;
-  background-color: #305380 !important;
+  background-color: #26ba62 !important;
 }
 ::-webkit-selection {
   color: #fff;
   text-shadow: #007931 1px 1px 1px;
-  background-color: #305380 !important;
+  background-color: #26ba62 !important;
 }
 ::selection {
   color: #fff;
   text-shadow: #007931 1px 1px 1px;
-  background-color: #305380 !important;
+  background-color: #26ba62 !important;
 }
 ::-webkit-input-placeholder {
   color: rgba(0,0,0,.5);
