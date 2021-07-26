@@ -373,8 +373,8 @@ video {
 /* Book Theme */
 [data-theme=book] {
   color: #632;
-  background: navy;
-  box-shadow: inset navy 0 0 50vmin;
+  background: black;
+  box-shadow: inset black 0 0 50vmin;
   font-family: 'PT Serif', Cambria, 'Hoefler Text', Utopia, 'Liberation Serif', 'Nimbus Roman No9 L Regular', Times, 'Times New Roman', serif;
 }
 [data-theme=book] h1,
